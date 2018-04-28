@@ -1,6 +1,6 @@
 # artirest
 
-This application was generated using JHipster, you can find documentation and help at [https://jhipster.github.io](https://jhipster.github.io).
+ArtiREST is a trial to leverage artifact-centric BPM by REST principles.This application was generated using JHipster, you can find documentation and help at [https://jhipster.github.io](https://jhipster.github.io).
 
 Before you can build this project, you must install and configure the following dependencies on your machine:
 
